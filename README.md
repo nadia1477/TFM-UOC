@@ -1,9 +1,8 @@
 # TFM-UOC
 # Máster Universitario en Ciencia de Datos
+# Trabajo de fin de Máster 
 
-* # Trabajo de fin de Máster 
-
-* #Estudio comparativo de modelos de predicción estocásticos y heurísticos aplicados a la estimación de la calidad del aire
+* # Estudio comparativo de modelos de predicción estocásticos y heurísticos aplicados a la estimación de la calidad del aire
 ***
 22/5/2020
 
