@@ -11,18 +11,18 @@
 
 Nadia Nathaly Sánchez Pozo
 
-**Descripción**
+**Ficheros** 
 
- 
+**TFM_Nadia_Sanchez_Pozo.ipynb**: Notebook con el análisis de datos, la generación de modelos y análisis predictivo.
 
+**TFM_Optimización_de_parámetros_modelo_Facebook_Prophet1.ipynb**:	Add files via upload	41 seconds ago
 
+**air-quality-london-monthly-averages.csv**: fichero csv, conjunto de datos original con los valores de concentración mensual de los contaminantes.
 
-**Ficheros**
+**air-quality-london-time-of-day.csv**: fichero csv conjunto de datos original con los valores de concentración horaria de los contaminantes.
 
-**codigo**: contiene el código fuente en lenguaje R con el que se ha realizado la limpieza, análisis y representación de los datos.
+**df_clean.csv**: fichero csv con los datos luego de la limpieza. 
 
-**Practica2JAL-NNSP.pdf**:  documento en formato pdf con las respuestas de la practica.
+**parameters_fb_prophet.csv**: fichero csv con el resultado de las combinaciones de parámetros modelo Facebook Prophet con días festivos
 
-**Datos**: contiene ficheros csv con los datos de train.
-
-**titanic_clean.csv**: fichero csv con los datos luego de la limpieza. 
+**parameters_fb_prophet2.csv**: fichero csv con el resultado de las combinaciones de parámetros modelo Facebook Prophet con días festivos.
