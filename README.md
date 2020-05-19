@@ -15,7 +15,7 @@ Nadia Nathaly Sánchez Pozo
 
 **TFM_Nadia_Sanchez_Pozo.ipynb**: Notebook con el análisis de datos, la generación de modelos y análisis predictivo.
 
-**TFM_Optimización_de_parámetros_modelo_Facebook_Prophet1.ipynb**:	Add files via upload	41 seconds ago
+**TFM_Optimización_de_parámetros_modelo_Facebook_Prophet1.ipynb**:	Notebook con la búsqueda de hiperparámetros para la optimización del modelo Facebook Prophet.
 
 **air-quality-london-monthly-averages.csv**: fichero csv, conjunto de datos original con los valores de concentración mensual de los contaminantes.
 
